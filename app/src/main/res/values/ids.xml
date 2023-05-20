@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextPeso" type="id" />
+    <item name="editTextAltura" type="id" />
+    <item name="botonCalcular" type="id" />
+    <item name="botonLimpiar" type="id" />
+    <item name="botonSalir" type="id" />
+    <item name="textViewResultado" type="id" />
+</resources>
